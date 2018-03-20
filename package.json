@@ -4,7 +4,7 @@
   "description": "",
   "main": "nightwatch.conf.js",
   "scripts": {
-    "e2e-test": "nightwatch --skipgroup disableTest",
+    "e2e-test": "nightwatch"
   },
   "dependencies": {
     "chromedriver": "^2.36.0",
